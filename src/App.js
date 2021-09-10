@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 import background from './assests/img/gettyimages-1184156438-2048x2048.jpg'
