@@ -7,9 +7,9 @@ import underConstruction from './assests/img/underConstruction.png'
 function App() {
   return (
     <div className="main" style={{backgroundImage:`url(${background})`}}>
-      <img className='logo-whitemark' src={isoTipo}></img>
+      <img alt='logo' className='logo-whitemark' src={isoTipo}></img>
       <div className='content-text'>
-        <img  src={underConstruction}></img>
+        <img alt='underconstruction' src={underConstruction}></img>
       </div>
     </div>
   );
